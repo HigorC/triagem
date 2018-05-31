@@ -1,0 +1,12 @@
+button {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    font-size: 22px;
+    margin: 0 auto;
+    outline: 0!important;
+}
+
+.conteudo {
+    background-image: url("http://www.esgilbertolinhares.com.br/img/medico-11022016.jpg");
+}

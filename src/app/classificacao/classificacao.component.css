@@ -1,0 +1,11 @@
+.info-paciente {
+    text-align: center;
+    margin: 0;
+    /* font-weight: bold; */
+}
+
+.doenca {
+    margin-bottom: 15px;
+    height: 50px;
+    width: 100%;
+}
