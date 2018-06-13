@@ -1,0 +1,31 @@
+{
+    "vermelho": [
+      "Obstrução de Vias Aéreas",
+      "Respiração Inadequada",
+      "Choque",
+      "Criança Não Reativa"
+    ],
+    "laranja": [
+      "Alteração Súbita da Consciência",
+      "Não Reage aos Pais",
+      "Evacuação de Sangue Vivo ou Escurecido",
+      "Vômito de Sangue",
+      "Prostação, Hipotonia",
+      "Criança Muito Quente",
+      "Dor Intensa"
+    ],
+    "amarelo": [
+      "Fezes Pretas ou em Groselha",
+      "História Aguda de Vômito de Sangue",
+      "Sinais de Desidratação",
+      "Vômitos Persistentes",
+      "Adulto Quente",
+      "Dor Moderada"
+    ],
+    "verde": [
+      "Febril",
+      "Vômito",
+      "Dor Leve Recente",
+      "Evento Recente"
+    ]
+}

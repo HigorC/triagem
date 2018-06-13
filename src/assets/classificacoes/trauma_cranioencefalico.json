@@ -1,0 +1,33 @@
+{
+    "vermelho": [
+      "Obstrução de Vias Aéreas",
+      "Respiração Inadequada",
+      "Hemorragia Exanguinante",
+      "Choque",
+      "Criança Não Reativa",
+      "Convulsionando",
+      "Hipogrlicemia"
+    ],
+    "laranja": [
+      "Mecanismo de Trauma Significativo",
+      "Hemorragia Maior Incontrolável",
+      "Alteração Súbita da Consciência",
+      "Déficit Neurológico Agudo",
+      "Dor Intensa"
+    ],
+    "amarelo": [
+      "História de Inconsciência",
+      "Distúrbio de Coagulação",
+      "História Discordante",
+      "Hemorragia Menor Incontrolável",
+      "Vômitos Persistentes",
+      "Déficit Neurológico Novo",
+      "Dor Moderada"
+    ],
+    "verde": [
+      "Hematoma de Couro Cabeludo",
+      "Vômito",
+      "Dor Leve Recente",
+      "Evento Recente"
+    ]
+}

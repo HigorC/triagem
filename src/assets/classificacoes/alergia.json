@@ -1,0 +1,29 @@
+{
+    "vermelho": [
+        "Obstrução de Vias Aéreas",
+        "Respiração Inadequada",
+        "Estridor",
+        "Choque",
+        "Criança Não Reativa"
+    ],
+    "laranja": [
+        "Edema Facial",
+        "Edema de Língua",
+        "História Alérgica Importante",
+        "Frases Entrecortadas",
+        "Pulso Anormal",
+        "Alteração Súbita de Consciência",
+        "Saturação de O2 Muito Baixa",
+        "Dor ou Coceira Intensas"
+    ],
+    "amarelo": [
+        "Sat O2 Baixa",
+        "Erupção ou Vesículas Dissemidas",
+        "Dor ou Coceira Moderadas"
+    ],
+    "verde": [
+        "Inflamação Local",
+        "Dor ou Coceira Leves Recentes",
+        "Evento Recente"
+    ]
+}

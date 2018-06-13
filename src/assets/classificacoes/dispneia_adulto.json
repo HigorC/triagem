@@ -1,0 +1,33 @@
+{
+    "vermelho": [
+      "Obstrução de Vias Aéreas",
+      "Respiração Inadequada",
+      "Estridor",
+      "Baba-se",
+      "Choque"
+    ],
+    "laranja": [
+      "Dor Precordial ou Cardíaca",
+      "Sat O2 Muito Baixa",
+      "Frases Entrecortadas",
+      "Hemoptise",
+      "História Respiratória Significativa",
+      "Início Agudo Após Trauma",
+      "Pulso Anormal",
+      "Alteração Súbita da Consciência",
+      "Dor Epigástrica",
+      "PFE Muito Baixo"
+    ],
+    "amarelo": [
+      "Sat O2 Baixa",
+      "História de Hemoptise",
+      "Dor Pleurítica",
+      "PFE Baixo"
+    ],
+    "verde": [
+      "Chieira",
+      "Tosse Produtiva",
+      "Trauma Torácido",
+      "Evento Recente"
+    ]
+}

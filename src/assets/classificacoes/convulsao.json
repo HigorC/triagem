@@ -1,0 +1,33 @@
+{
+    "vermelho": [
+      "Obstrução de Vias Aéreas",
+      "Respiração Inadequada",
+      "Choque",
+      "Criança Não Reativa",
+      "Comvulsionando",
+      "Hipoglicemia"
+    ],
+    "laranja": [
+      "Alteração Súbita da Consciência",
+      "Déficit Neurológico Agudo",
+      "Sinais de Meningismo",
+      "História Overdose ou Envenenamento",
+      "Erupção Cutânea Fixa",
+      "Púrpura",
+      "Criança Quente",
+      "Adulto Muito Quente"
+    ],
+    "amarelo": [
+      "História de Trauma Cranioencefálico",
+      "História Discordante",
+      "Déficit Neurológico Novo",
+      "Adulto Quente",
+      "História de Consulsão"
+    ],
+    "verde": [
+      "Febril",
+      "Cefaléia",
+      "Dor Leve Recente",
+      "Evento Recente"
+    ]
+}

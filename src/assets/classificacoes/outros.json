@@ -1,0 +1,31 @@
+{
+  "vermelho":[
+    "Politraumatismo Grave",
+    "Grande Queimado (>25%)",
+    "TCE Grave",
+    "Dor Torácica",
+    "Crise Convulsiva",
+    "Intoxixação Exógena",
+    "Perfuração no Peito, Abdomem e Cabeça",
+    "PCR",
+    "Pulso > 140 ou < 10 rpm",
+    "PAD < 80 mmHg",
+    "Acidente Acima de 35 km",
+    "Fratura 1/2/9/10/11 Costela",
+    "Possível Aspiração",
+    "Anafilaxia",
+    "Tentativa de Suicídio"
+  ],
+  "amarelo": [
+    "Politraumatismo, Glasgow 13 e 15",
+    "Cefaléia Grave (Parestesia, Disladia, Disfagia)",
+    "TCE",
+    "Síncope",
+    "Vítima de Abuso Sexual",
+    "Febre",
+    "Histórico de Convulsão",
+    "Diabetes Descompensada",
+    "Epistaxe com Alteração de SSVV"
+  ]
+
+}

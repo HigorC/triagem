@@ -1,0 +1,38 @@
+{
+  "vermelho":[
+    "Obstrução de Vias Aéreas",
+    "Respiração Inadequada",
+    "Choque",
+    "Hipoglicemia",
+    "Convulsionando"
+  ],
+  "laranja":[
+    "Dor Precordial ou Cardiaca",
+    "História de Alergia Importante",
+    "Dispnéia Aguda",
+    "Pulso Anormal",
+    "Alteração Súbita da Consciência",
+    "Déficit Neurológico Agudo",
+    "Púrpura",
+    "Erupção Cutânra Fixa",
+    "Adulto Muito Quente",
+    "Hipotermia",
+    "Dor Intensa"
+  ],
+  "amarelo":[
+    "História de Trauma Cranioencefálico",
+    "História de Inconsciência",
+    "História Discordante",
+    "Déficit Neurológico Novo",
+    "Adulto Quente",
+    "Dor Moderada"
+  ],
+  "verde":[
+    "Febril",
+    "Dor Leve Recente",
+    "Evento Recente"
+  ],
+  "azul":[
+
+  ]
+}

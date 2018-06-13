@@ -1,0 +1,33 @@
+{
+  "vermelho": [
+    "Obstrução de Vias Aéreas",
+    "Respiração Inadequada",
+    "Choque",
+    "Criança Não Reativa"
+  ],
+  "laranja": [
+    "Sinais de Dor Intensa",
+    "Resposa à Dor ou à Voz Apenas",
+    "Não Reage aos Pais",
+    "História de Overdose ou Envenenamento",
+    "Erupção Cutânea Fixa",
+    "Púrpura",
+    "Prostração e/ou Hipotonia",
+    "Criança Quente"
+  ],
+  "amarelo": [
+    "Sinais de Dor Moderada",
+    "Choro Prolongado ou Ininterrupto",
+    "Inconsolável Pelos Pais",
+    "História Discordante",
+    "Sinais de Desidratação",
+    "Sem Urinar",
+    "Não se Alimenta"
+  ],
+  "verde": [
+    "Sinais de Dor Leve Recente",
+    "Febril",
+    "Comportamento Atípico",
+    "Evento Recente"
+  ]
+}

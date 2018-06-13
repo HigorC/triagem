@@ -1,0 +1,30 @@
+{
+    "vermelho": [
+      "Obstrução de Vias Aéreas",
+      "Respiração Inadequada",
+      "Choque"
+    ],
+    "laranja": [
+      "Dor Irradiada Para o Dorso",
+      "Hemoptise",
+      "Melena",
+      "Sangramento Vaginal, > 20 Semanas de Gravidez",
+      "Adulto Muito Quente",
+      "Dor Epigástrica",
+      "Dor Intensa"
+    ],
+    "amarelo": [
+      "Gravidez Possível",
+      "Dor Irradiada Para Ombro",
+      "Fezes Pretas ou em Groselha",
+      "História Aguda de Vômito de Sangue",
+      "Vômitos Persistentes",
+      "Adulto Quente",
+      "Dor Moderada"
+    ],
+    "verde": [
+      "Vômitos",
+      "Dor Leve Recente",
+      "Evento Recente"
+    ]
+}

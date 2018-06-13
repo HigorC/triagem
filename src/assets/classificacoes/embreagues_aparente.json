@@ -1,0 +1,27 @@
+{
+  "vermelho": [
+    "Obstrução de Vias Aéreas",
+    "Respiração Inadequada",
+    "Choque",
+    "Criança Não Reativa",
+    "Convulsionando",
+    "Hipoglicemia"
+  ],
+  "laranja": [
+    "Alteração da Consciência Não Totalmente Atribuível ao Álcool",
+    "Déficit Neurológico Agudo",
+    "História Inadequada",
+    "Hipotermia"
+  ],
+  "amarelo": [
+    "Alteração do Nível da Consciência Totalmente Atribuível ao Álcool",
+    "Déficit Neurológico Novo",
+    "História de Incosciência",
+    "História Discordante",
+    "História de Trauma Cranioencefálico"
+  ],
+  "verde": [
+    "Trauma Recente",
+    "Dor Leve Recente"
+  ]
+}

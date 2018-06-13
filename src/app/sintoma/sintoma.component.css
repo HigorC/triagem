@@ -1,0 +1,63 @@
+button {
+    margin: 0 0 15px 0;
+    font-size: 100%;
+}
+
+.btn-duas-colunas {
+    width: 49%;
+}
+
+.btn-voltar {
+    height: 75%;
+}
+
+.nome-sintoma-geral {
+    text-align: center;
+    margin: 0px;
+    font-weight: bold;
+    color: white;
+    text-shadow: black 0.1em 0.1em 1em;
+}
+
+ol, li, ul {
+    padding: 0px;
+}
+
+.resumo-gravidade {
+    font-style: italic;
+    font-size: 19px;
+    color: white;
+    text-align: center;
+    margin: 0px;
+    text-shadow: black 0.1em 0.1em 1em;
+}
+
+.bg-orange {
+    background-color: #ffaa00;
+}
+
+.bg-yellow {
+    background-color: #f6ff02;
+}
+
+.btn-sim {
+    text-shadow: black 0.1em 0.1em 1em;
+    color: white;
+}
+
+.resultado {
+    margin: 0 auto;
+}
+
+.pergunta {
+    margin: 0!important;
+}
+
+.sumir {
+    display: none;
+}
+
+.conteudo-sintomas {
+    width: 80%;
+    margin: 0 auto;
+}

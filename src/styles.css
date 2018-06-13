@@ -1,0 +1,59 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* @import "../node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css"; */
+body {
+    /* background-image: url("http://www.esgilbertolinhares.com.br/img/medico-11022016.jpg"); */
+    /* background-image: url("http://www.smcjf.com.br/wp-content/uploads/2017/07/medicoW.jpg"); */
+    /* background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(http://www.smcjf.com.br/wp-content/uploads/2017/07/medicoW.jpg); */
+    height: 80%;
+    width: 100%;
+    background-image: url('assets/img/medico3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-clip: padding-box;
+    overflow: hidden;
+}
+
+.vertical-center {
+    min-height: 100%;
+    /* Fallback for browsers do NOT support vh unit */
+    min-height: 100vh;
+    /* These two lines are counted as one :-)       */
+    display: flex;
+    align-items: center;
+}
+
+button, p {
+    font-size: 14.5px!important;
+}
+
+button {
+    margin-bottom: 10px!important;
+}
+
+.jumbotron {
+    padding: 1rem 2rem!important;
+}
+
+h2 {
+    font-size: 40px!important;
+}
+
+.vertical-center {
+    margin-top: 12px!important;
+}
+
+.logos {
+    margin-top: 10px;
+}
+
+.logo-ufms {
+    margin-left: 10px;
+    width: 180px;
+}
+
+.logo-talentw {
+    width: 140px;
+    margin-left: 40px;
+}

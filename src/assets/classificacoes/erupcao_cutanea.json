@@ -1,0 +1,31 @@
+{
+  "vermelho": [
+    "Obstrução de Vias Aéreas",
+    "Respiração Inadequada",
+    "Estridor",
+    "Choque",
+    "Criança Não Reativa"
+  ],
+  "laranja": [
+    "Edema Facial",
+    "Edema de Língua",
+    "Dispnéia Aguda",
+    "Alteração Súbita da Consciência",
+    "História Alérgica Importante",
+    "Erupção Cutânea Fixa",
+    "Púrpura",
+    "Dulto Muito Quente",
+    "Dor ou Coceira Intensas"
+  ],
+  "amarelo": [
+    "Erupção ou Vesículas Disseminadas",
+    "História Discordante",
+    "Adulto Quente",
+    "Dor ou Coceira Moderadas"
+  ],
+  "verde": [
+    "Febril",
+    "Dor ou Coceira Leves Recentes",
+    "Evento Recente"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "vermelho": [
+    "Obstrução de Vias Aéreas",
+    "Respiração Inadequada",
+    "Estridor",
+    "Hemorragia Exanguinante",
+    "Choque"
+  ],
+  "laranja": [
+    "Edema Facial",
+    "Edema de Língua",
+    "Frases Entrecortadas",
+    "Hemorragia Maior Incontrolável",
+    "História Alérgica Importante",
+    "Envenenamento de Alta Mortalidade",
+    "Alteração Súbita Da Consciência",
+    "Sat O2 Muito Baixa",
+    "Adulto Muito Quente",
+    "Dor ou Coceira Intensas"
+  ],
+  "amarelo": [
+    "Sat O2 Baixa",
+    "Hemorragia Menor Incontrolável",
+    "Erupção ou Vesículas Disseminadas",
+    "Envenenamento de Moderada Mortalidade",
+    "Adulto Quente",
+    "Dor ou Coceira Moderadas"
+  ],
+  "verde": [
+    "Inflamação Local",
+    "Infecção Local",
+    "Dor Leve Recente",
+    "Evento Recente"
+  ]
+}

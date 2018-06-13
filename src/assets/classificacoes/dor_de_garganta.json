@@ -1,0 +1,26 @@
+{
+     "vermelho": [
+       "Obstrução de Vias Aéreas",
+       "Respiração Inadequada",
+       "Estridor",
+       "Baba-se",
+       "Choque"
+     ],
+      "laranja": [
+        "Alteração Súbita da Cosciência",
+        "Adulto Muito Quente",
+        "Criança Quente",
+        "Dor Intensa"
+      ],
+      "amarelo": [
+        "História de Viagem Recente",
+        "Início Súbito",
+        "Adulto Quente",
+        "Dor Moderada"
+      ],
+      "verde": [
+        "Febril",
+        "Dor Leve Recente",
+        "Evento Recente"
+      ]
+}

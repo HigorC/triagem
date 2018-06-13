@@ -1,0 +1,39 @@
+{
+    "vermelho": [
+      " Obstrução de Vias Aéreas",
+      "Respiração Inadequada",
+      "Choque",
+      "Criança Não Reativa",
+      "Convulsionando"
+    ],
+    "laranja": [
+      "Início Abrupto",
+      "Alteração Súbita da Consciência",
+      "Déficit Neurológico Agudo",
+      "Perda Total da Visão Aguda",
+      "Sinais de Meningismo",
+      "Erupção Cutânea Fixa",
+      "Púrpura",
+      "Criança Quente",
+      "Adulto Muito Quente",
+      "Dor Intensa"
+    ],
+    "amarelo": [
+      "História de Trauma Craniocefálico",
+      "História de Inconsciência",
+      "Distúrbio de Coagulação",
+      "História Discordante",
+      "Redução Recente da Acuidade Visual",
+      "Vômitos Persistentes",
+      "Déficit Neurológico Novo",
+      "Couro Cabeludo Temporal Dolorido",
+      "Adulto Quente",
+      "Dor Moderada"
+    ],
+    "verde": [
+      "Febril",
+      "Vômitos",
+      "Dor Leve Recente",
+      "Evento Recente"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+ "vermelho": [
+   "Obstrução de Vias Aéreas",
+   "Respiração Inadequada",
+   "Choque"
+ ],
+  "laranja": [
+    "Dor Precordial ou Cardíaca",
+    "Dispnéia Aguda",
+    "Pulso Anormal",
+    "Dor Intensa"
+  ],
+  "amarelo": [
+    "Dor Pleuritica",
+    "Vômitos Persistentes",
+    "História Cardíaca Importante",
+    "Dor Moderada"
+  ],
+  "verde": [
+    "Vômitos",
+    "Dor Leve Recentemente",
+    "Evento Recente"
+  ]
+}

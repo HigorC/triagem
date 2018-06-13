@@ -1,0 +1,29 @@
+{
+    "vermelho": [
+      "Obstrução de Vias Aéreas",
+      "Respiração Inadequada",
+      "Choque",
+      "Criança Não Reativa",
+      "Hipoglicemia"
+    ],
+    "laranja": [
+      "Alteração Súbita da Consciência",
+      "Hiperglicemia com Cetose",
+      "Criança Quente",
+      "Adulto Muito Quente",
+      "Hipotermia",
+      "Dor Intensa"
+    ],
+    "amarelo": [
+      "Hiperglicemia",
+      "Adulto Quente",
+      "Vômitos Persistentes",
+      "Dor Moderada"
+    ],
+    "verde": [
+      "Febril",
+      "Vômitos",
+      "Dor Leve Recente",
+      "Evento Recente"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "vermelho":[
+    "Chieira",
+    "Tosse Produtiva",
+    "Trauma Torácido",
+    "Evento Recente"
+  ],
+  "laranja":[
+    "Alteração Súbita da Consciência",
+    "Alto Risco de Agredir Outros",
+    "Alto Risco de Autoagressão"
+  ],
+  "amarelo":[
+    "História Psiquiátrica Importante",
+    "Risco Moderado de Agredir Outros",
+    "Risco Moderado de Autoagressão",
+    "Agitação Psicomotora",
+    "Comportamento Conturbador"
+  ]
+}
