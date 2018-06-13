@@ -1,6 +1,5 @@
 {
     "vermelho": [
-<<<<<<< HEAD
       "Obstrução de Vias Aéreas",
       "Respiração Inadequada",
       "Choque",
@@ -30,34 +29,3 @@
       "Evento Recente"
     ]
 }
-=======
-        "Obstrução de vias aéreas",
-        "Respiração inadequada",
-        "Choque",
-        "Criança não reativa"
-    ],
-    "laranja": [
-        "Alteração súbita da consciência",
-        "Não reage aos pais",
-        "Evacuação de sangue vivo ou escurecido",
-        "Vômito de sangue",
-        "Prostação, hipotonia",
-        "Criança muito quente",
-        "Dor intensa"
-    ],
-    "amarelo": [
-        "Fezes pretas ou em groselha",
-        "História aguda de vômito de sangue",
-        "Sinais de desidratação",
-        "Vômitos persistentes",
-        "Adulto quente",
-        "Dor moderada"
-    ],
-    "verde": [
-        "Febril",
-        "Vômito",
-        "Dor leve recente",
-        "Evento recente"
-    ]
-}
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47

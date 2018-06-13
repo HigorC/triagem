@@ -1,6 +1,5 @@
 {
     "vermelho": [
-<<<<<<< HEAD
       "Obstrução de Vias Aéreas",
       "Respiração Inadequada",
       "Choque"
@@ -29,33 +28,3 @@
       "Evento Recente"
     ]
 }
-=======
-        "Obstrução de vias aéreas",
-        "Respiração inadequada",
-        "Choque"
-    ],
-    "laranja": [
-        "Dor irradiada para o dorso",
-        "Hemoptise",
-        "Melena",
-        "Sangramento vaginal, >20 semanas de gravidez",
-        "Adulto muito quente",
-        "Dor epigástrica",
-        "Dor intensa"
-    ],
-    "amarelo": [
-        "Gravidez possível",
-        "Dor irradiada para ombro",
-        "Fezes pretas ou em groselha",
-        "História aguda de vômito de sangue",
-        "Vômitos persistentes",
-        "Adulto quente",
-        "Dor moderada"
-    ],
-    "verde": [
-        "Vômitos",
-        "Dor leve recente",
-        "Evento recente"
-    ]
-}
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47

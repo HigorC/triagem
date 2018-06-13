@@ -1,6 +1,5 @@
 {
     "vermelho": [
-<<<<<<< HEAD
       "Obstrução de Vias Aéreas",
       "Respiração Inadequada",
       "Choque",
@@ -28,32 +27,3 @@
       "Evento Recente"
     ]
 }
-=======
-        "Obstrução de vias aéreas",
-        "Respiração inadequada",
-        "Choque",
-        "Criança não reativa",
-        "Hipoglicemia"
-    ],
-    "laranja": [
-        "Alteração súbita da consciência",
-        "Hiperglicemia com cetose",
-        "Criança quente",
-        "Adulto muito quente",
-        "Hipotermia",
-        "Dor intensa"
-    ],
-    "amarelo": [
-        "Hiperglicemia",
-        "Adulto quente",
-        "Vômitos persistentes",
-        "Dor moderada"
-    ],
-    "verde": [
-        "Febril",
-        "Vômitos",
-        "Dor leve recente",
-        "Evento recente"
-    ]
-}
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47

@@ -1,6 +1,5 @@
 {
     "vermelho": [
-<<<<<<< HEAD
       "Obstrução de Vias Aéreas",
       "Respiração Inadequada",
       "Hemorragia Exanguinante",
@@ -32,36 +31,3 @@
       "Evento Recente"
     ]
 }
-=======
-        "Obstrução de vias aéreas",
-        "Respiração inadequada",
-        "Hemorragia exanguinante",
-        "Choque",
-        "Criança não reativa",
-        "Convulsionando",
-        "Hipogrlicemia"
-    ],
-    "laranja": [
-        "Mecanismo de trauma significativo",
-        "Hemorragia maior incontrolável",
-        "Alteração súbita da consciência",
-        "Déficit neuroógico agudo",
-        "Dor intensa"
-    ],
-    "amarelo": [
-        "História de inconsciência",
-        "Distúrbio de coagulação",
-        "História discordante",
-        "Hemorragia menor incontrolável",
-        "Vômitos persistentes",
-        "Déficit neurológico novo",
-        "Dor moderada"
-    ],
-    "verde": [
-        "Hematoma de couro cabeludo",
-        "Vômito",
-        "Dor leve recente",
-        "Evento recente"
-    ]
-}
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47

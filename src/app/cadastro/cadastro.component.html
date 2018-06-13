@@ -1,5 +1,4 @@
 <div class="row vertical-center">
-<<<<<<< HEAD
   <!-- <div class="col-md-3"></div> -->
   <!-- <div class="col-md-6 "> -->
   <form ngNativeValidate action="/classificacao" (ngSubmit)="prepararDados(paciente)" class="jumbotron formulario">
@@ -76,56 +75,4 @@
 
   <!-- </div> -->
   <!-- <div class="col-md-3"></div> -->
-=======
-  <div class="col-md-3"></div>
-  <div class="col-md-6 ">
-    <form ngNativeValidate action="/classificacao" (ngSubmit)="prepararDados(paciente)" class="jumbotron">
-      <h2 class="display-4 titulo">Cadastro de paciente</h2>
-      <hr>
-      <!-- <p class="lead">Todos os campos são de preenchimento obrigatório</p> -->
-      <div class="input-group mb-3">
-        <div class="input-group-prepend">
-          <span class="input-group-text oi oi-person"></span>
-        </div>
-        <input type="text" [(ngModel)]="paciente.nome" name="nome" class="form-control" required="true" placeholder="Nome completo">
-      </div>
-
-      <div class="row">
-        <div class="col-md-6">
-          <div class="input-group mb-3">
-            <input type="number" min="0" class="form-control" required placeholder="Idade" [(ngModel)]="paciente.idade" name="idade">
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div class="input-group mb-3">
-            <select class="form-control" required id="sexo" [(ngModel)]="paciente.sexo" name="sexo">
-              <option value="" disabled hidden>Sexo</option>
-              <option value="Masculino">Masculino</option>
-              <option value="Feminino">Feminino</option>
-            </select>
-          </div>
-        </div>
-      </div>
-
-      <div class="input-group mb-3">
-        <div class="input-group-prepend">
-          <span class="input-group-text oi oi-home"></span>
-        </div>
-        <select class="form-control" required id="cidade" [(ngModel)]="paciente.cidade" name="cidade">
-          <option value="" disabled selected hidden>Cidade</option>
-          <option *ngFor="let cidade of cidades">
-            {{cidade}}
-          </option>
-        </select>
-      </div>
-      <div class="input-group mb-3">
-        <textarea rows="3" class="form-control" [(ngModel)]="paciente.queixa" name="queixa" placeholder="Queixa principal do paciente"
-          aria-label="With textarea"></textarea>
-      </div>
-      <button type="button" routerLink="/home" class="btn btn-danger">Cancelar</button>
-      <button type="submit" class="btn btn-success">Próximo</button>
-    </form>
-  </div>
-  <div class="col-md-3"></div>
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
 </div>

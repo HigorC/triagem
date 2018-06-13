@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div class="vertical-center">
   <!-- <div class="col-md-3"></div> -->
   <!-- <div class="col-md-6 "> -->
@@ -7,22 +6,11 @@
     <app-paciente></app-paciente>
 
     <div class="alert alert-dark" role="alert" [ngClass]="{
-=======
-<div class="row vertical-center">
-  <div class="col-md-3"></div>
-  <div class="col-md-6 ">
-    <div class="jumbotron">
-
-      <app-paciente></app-paciente>
-
-      <div class="alert alert-dark" role="alert" [ngClass]="{
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
         'bg-danger':estadoAtual == 'vermelho',
         'bg-orange':estadoAtual == 'laranja',
         'bg-yellow':estadoAtual == 'amarelo',
         'bg-success':estadoAtual == 'verde',
         'bg-primary':estadoAtual == 'azul'}">
-<<<<<<< HEAD
       <p class="nome-sintoma-geral lead">
         {{sintomaGeral}}
       </p>
@@ -34,24 +22,10 @@
     <div *ngIf="estadoAtual=='vermelho'" class="sintomasVermelhos">
       <div *ngFor="let sintoma of sintomasVermelhos; let i = index">
         <button [ngClass]="{
-=======
-        <p class="nome-sintoma-geral lead">
-          {{sintomaGeral}}
-        </p>
-      </div>
-      <!-- ######### -->
-      <!-- VERMELHOS -->
-      <!-- ######### -->
-
-      <div *ngIf="estadoAtual=='vermelho'" class="sintomasVermelhos">
-        <div *ngFor="let sintoma of sintomasVermelhos; let i = index">
-          <button [ngClass]="{
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
               'float-right':sintomasVermelhos.length >= 6 &&  i%2==1,
               'float-left':sintomasVermelhos.length >= 6 && i%2==0,
               'btn-block':sintomasVermelhos.length < 6,
               'btn-duas-colunas':sintomasVermelhos.length >= 6}" (click)="possui()" class=" btn btn-light">{{ sintoma }}</button>
-<<<<<<< HEAD
       </div>
     </div>
 
@@ -61,22 +35,10 @@
     <div *ngIf="estadoAtual=='laranja' && sintomasLaranjas && sintomasLaranjas.length >0" class="sintomasLaranja ">
       <div *ngFor="let sintoma of sintomasLaranjas; let i = index">
         <button [ngClass]="{
-=======
-        </div>
-      </div>
-
-      <!-- ######### -->
-      <!-- LARANJA -->
-      <!-- ######### -->
-      <div *ngIf="estadoAtual=='laranja' " class="sintomasLaranja ">
-        <div *ngFor="let sintoma of sintomasLaranjas; let i = index">
-          <button [ngClass]="{
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
                   'float-right':sintomasLaranjas.length >= 6 &&  i%2==1,
                   'float-left':sintomasLaranjas.length >= 6 && i%2==0,
                   'btn-block':sintomasLaranjas.length < 6,
                   'btn-duas-colunas':sintomasLaranjas.length >= 6}" (click)="possui()" class=" btn btn-light">{{ sintoma }}</button>
-<<<<<<< HEAD
       </div>
     </div>
     <!-- ######### -->
@@ -85,21 +47,10 @@
     <div *ngIf="estadoAtual=='amarelo' " class="sintomasAmarelos ">
       <div *ngFor="let sintoma of sintomasAmarelos; let i = index">
         <button [ngClass]="{
-=======
-        </div>
-      </div>
-      <!-- ######### -->
-      <!-- AMARELO -->
-      <!-- ######### -->
-      <div *ngIf="estadoAtual=='amarelo' " class="sintomasAmarelos ">
-        <div *ngFor="let sintoma of sintomasAmarelos; let i = index">
-          <button [ngClass]="{
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
                   'float-right':sintomasAmarelos.length >= 6 &&  i%2==1,
                   'float-left':sintomasAmarelos.length >= 6 && i%2==0,
                   'btn-block':sintomasAmarelos.length < 6,
                   'btn-duas-colunas':sintomasAmarelos.length >= 6}" (click)="possui()" class=" btn btn-light">{{ sintoma }}</button>
-<<<<<<< HEAD
       </div>
     </div>
 
@@ -109,22 +60,10 @@
     <div *ngIf="estadoAtual=='verde'" class="sintomasVerdes">
       <div *ngFor="let sintoma of sintomasVerdes; let i = index">
         <button [ngClass]="{
-=======
-        </div>
-      </div>
-
-      <!-- ######### -->
-      <!-- VERDE -->
-      <!-- ######### -->
-      <div *ngIf="estadoAtual=='verde'" class="sintomasVerdes">
-        <div *ngFor="let sintoma of sintomasVerdes; let i = index">
-          <button [ngClass]="{
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
                   'float-right':sintomasVerdes.length >= 6 &&  i%2==1,
                   'float-left':sintomasVerdes.length >= 6 && i%2==0,
                   'btn-block':sintomasVerdes.length < 6,
                   'btn-duas-colunas':sintomasVerdes.length >= 6}" (click)="possui()" class=" btn btn-light">{{ sintoma }}</button>
-<<<<<<< HEAD
       </div>
     </div>
     <div class="clearfix "></div>
@@ -142,31 +81,11 @@
             </h4>
           </div>
           <div class="modal-body" [ngClass]="{
-=======
-        </div>
-      </div>
-      <div class="clearfix "></div>
-
-      <div *ngIf="estadoAtual=='azul'">
-        <p class="lead text-center">A gravidade do usuário não é urgente, sem risco imediato de agravo à saúde</p>
-      </div>
-
-      <div id="myModal" class="modal" data-backdrop="static">
-        <div class="modal-dialog modal-dialog-centered ">
-          <div class="modal-content">
-            <div class="modal-header">
-              <h4 class="modal-title resultado">O estado do paciente é
-                <span style="font-weight: bold">{{gravidade}}</span>
-              </h4>
-            </div>
-            <div class="modal-body" [ngClass]="{
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
               'bg-danger':estadoAtual == 'vermelho',
               'bg-orange':estadoAtual == 'laranja',
               'bg-yellow':estadoAtual == 'amarelo',
               'bg-success':estadoAtual == 'verde',
               'bg-primary':estadoAtual == 'azul'}">
-<<<<<<< HEAD
             <p class="resumo-gravidade">{{resumoGravidade}}</p>
           </div>
           <div class="modal-footer">
@@ -193,56 +112,18 @@
         <div class="row float-right">
           <div class="col-md-6">
             <button type="button " (click)="possui()" class="btn  btn-sim" *ngIf="estadoAtual!='azul'" [ngClass]="{
-=======
-              <p class="resumo-gravidade">{{resumoGravidade}}</p>
-            </div>
-            <div class="modal-footer">
-              <button type="button" class="btn btn-light" routerLink="/cadastro" data-dismiss="modal">Novo cadastro</button>
-              <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <hr>
-      <p *ngIf="estadoAtual!='azul'" class="lead text-center">
-        O paciente possui algum dos sintomas acima?
-      </p>
-
-      <div class="row">
-        <div class="col-md-6">
-          <button (click)="voltar()" class="btn btn-secondary btn-voltar">
-            <span class="oi oi-arrow-thick-left"></span>
-          </button>
-        </div>
-        <div class="col-md-6">
-
-          <div class="row float-right">
-            <div class="col-md-6">
-              <button type="button " (click)="possui()" class="btn  btn-sim" *ngIf="estadoAtual!='azul'" [ngClass]="{
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
                   'bg-danger':estadoAtual == 'vermelho',
                   'bg-orange':estadoAtual == 'laranja',
                   'bg-yellow':estadoAtual == 'amarelo',
                   'bg-success':estadoAtual == 'verde',
                   'bg-primary':estadoAtual == 'azul'}">Sim</button>
-<<<<<<< HEAD
           </div>
           <div class="col-md-6">
             <button type="button " *ngIf="estadoAtual!=='azul' " (click)="naoPossui() " class="btn btn-secondary  ">Não</button>
-=======
-            </div>
-            <div class="col-md-6">
-              <button type="button " *ngIf="estadoAtual!=='azul'" (click)="naoPossui() " class="btn btn-secondary  ">Não</button>
-            </div>
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
           </div>
         </div>
       </div>
     </div>
   </div>
-<<<<<<< HEAD
   <!-- </div> -->
-=======
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
 </div>

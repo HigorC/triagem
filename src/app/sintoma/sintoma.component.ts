@@ -1,9 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
-<<<<<<< HEAD
 import { ActivatedRoute, Router } from '@angular/router';
-=======
-import { ActivatedRoute,Router } from '@angular/router';
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
 import { SintomaService } from './sintoma.service';
 
 declare var $: any;
@@ -22,11 +18,8 @@ export class SintomaComponent implements OnInit {
   gravidade: string;
   resumoGravidade: string;
 
-<<<<<<< HEAD
   // ultimoNivel: boolean = false;
 
-=======
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
   sintomas = {};
   sintomasVermelhos;
   sintomasLaranjas;
@@ -70,7 +63,6 @@ export class SintomaComponent implements OnInit {
 
   naoPossui() {
     if (this.estadoAtual == "vermelho") {
-<<<<<<< HEAD
       // if (this.sintomasLaranjas && this.sintomasLaranjas.length > 0) {
         this.estadoAtual = "laranja";
       // } else {
@@ -89,29 +81,15 @@ export class SintomaComponent implements OnInit {
     } else if (this.estadoAtual == "verde") {
       this.estadoAtual = "azul";
       // this.ultimoNivel = true;
-=======
-      this.estadoAtual = "laranja";
-    } else if (this.estadoAtual == "laranja") {
-      this.estadoAtual = "amarelo";
-    } else if (this.estadoAtual == "amarelo") {
-      this.estadoAtual = "verde";
-    } else if (this.estadoAtual == "verde") {
-      this.estadoAtual = "azul";
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
       this.gravidade = "Não urgente"
       this.resumoGravidade = "Sem risco imediato de agravo à saúde."
       this.abrirModal();
     }
   }
 
-<<<<<<< HEAD
   voltar() {
     if (this.estadoAtual == "azul") {
       // this.ultimoNivel = false;
-=======
-  voltar(){
-    if (this.estadoAtual == "azul") {
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
       this.estadoAtual = "verde";
     } else if (this.estadoAtual == "verde") {
       this.estadoAtual = "amarelo";
@@ -121,11 +99,7 @@ export class SintomaComponent implements OnInit {
       this.estadoAtual = "vermelho";
     } else if (this.estadoAtual == "vermelho") {
       this.router.navigate(['/classificacao']);
-<<<<<<< HEAD
     }
-=======
-    } 
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
   }
 
   abrirModal() {
@@ -141,13 +115,8 @@ export class SintomaComponent implements OnInit {
         this.sintomasAmarelos = this.sintomas["amarelo"];
         this.sintomasVerdes = this.sintomas["verde"];
 
-<<<<<<< HEAD
         // console.log(this.sintomas);
         // console.log(this.sintomas["vermelho"]);
-=======
-        console.log(this.sintomas);
-        console.log(this.sintomas["vermelho"]);
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
       });
   }
 }

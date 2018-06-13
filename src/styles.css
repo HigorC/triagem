@@ -1,16 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
-<<<<<<< HEAD
 
 /* @import "../node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css"; */
-=======
-@import "../node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css";
-
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
 body {
     /* background-image: url("http://www.esgilbertolinhares.com.br/img/medico-11022016.jpg"); */
     /* background-image: url("http://www.smcjf.com.br/wp-content/uploads/2017/07/medicoW.jpg"); */
     /* background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(http://www.smcjf.com.br/wp-content/uploads/2017/07/medicoW.jpg); */
-<<<<<<< HEAD
     height: 80%;
     width: 100%;
     background-image: url('assets/img/medico3.png');
@@ -19,15 +13,6 @@ body {
     background-position: center center;
     background-clip: padding-box;
     overflow: hidden;
-=======
-    height: 100vh;
-    background-image: url("assets/img/medico3.png");
-
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-clip:padding-box;
-    overflow:hidden;
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
 }
 
 .vertical-center {
@@ -37,7 +22,6 @@ body {
     /* These two lines are counted as one :-)       */
     display: flex;
     align-items: center;
-<<<<<<< HEAD
 }
 
 button, p {
@@ -72,6 +56,4 @@ h2 {
 .logo-talentw {
     width: 140px;
     margin-left: 40px;
-=======
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
 }

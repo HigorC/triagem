@@ -1,6 +1,5 @@
 {
     "vermelho": [
-<<<<<<< HEAD
         "Obstrução de Vias Aéreas",
         "Respiração Inadequada",
         "Estridor",
@@ -28,32 +27,3 @@
         "Evento Recente"
     ]
 }
-=======
-        "Obstrução de vias aéreas",
-        "Respiração inadequada",
-        "Estridor",
-        "Choque",
-        "Criança não reativa"
-    ],
-    "laranja": [
-        "Edema facial",
-        "Edema de língua",
-        "História alérgica importante",
-        "Frases entrecortadas",
-        "Pulso anormal",
-        "Alteração súbita de consciência",
-        "Saturação de O2 muito baixa",
-        "Dor ou coceira intensas"
-    ],
-    "amarelo": [
-        "Sat O2 baixa",
-        "Erupção ou vesículas dissemidas",
-        "Dor ou coceira moderadas"
-    ],
-    "verde": [
-        "Inflamação local",
-        "Dor ou coceira leves recentes",
-        "Evento recente"
-    ]
-}
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47

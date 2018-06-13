@@ -1,22 +1,12 @@
-<<<<<<< HEAD
 .formulario {
     margin: 0 auto;
 }
 
 .titulo {
-=======
-
-
-.titulo{
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
     text-align: center;
     margin-bottom: 20px;
 }
 
-<<<<<<< HEAD
 textarea {
-=======
-textarea{
->>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
     resize: none;
 }
