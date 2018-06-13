@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
 {
   "name": "triagem",
   "version": "0.0.0",
@@ -13,11 +16,19 @@
     "e2e": "ng e2e",
     "electron": "ng build && electron .",
     "electron-aot": "ng build --prod && electron .",
+<<<<<<< HEAD
     "win32": "electron-packager . Triagem --platform=win32 --arch=ia32 --overwrite",
     "win64": "electron-packager . Triagem --platform=win32 --arch=x64",
     "linux32": "electron-packager . Triagem --platform=linux --arch=ia32",
     "linux64": "electron-packager . Triagem --platform=linux --arch=x64",
     "osx": "electron-packager . Triagem --platform=darwin --arch=x64",
+=======
+    "win32": "electron-packager . myApp --platform=win32 --arch=ia32",
+    "win64": "electron-packager . myApp --platform=win32 --arch=x64",
+    "linux32": "electron-packager . myApp --platform=linux --arch=ia32",
+    "linux64": "electron-packager . myApp --platform=linux --arch=x64",
+    "osx": "electron-packager . myApp --platform=darwin --arch=x64",
+>>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
     "buildall": "electron-packager . --all"
   },
   "private": true,
@@ -35,7 +46,10 @@
     "@angular/router": "^5.2.0",
     "bootstrap": "^4.0.0",
     "core-js": "^2.4.1",
+<<<<<<< HEAD
     "electron-squirrel-startup": "^1.0.0",
+=======
+>>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
     "ngx-electron": "^1.0.4",
     "npm": "^5.7.1",
     "rxjs": "^5.5.6",

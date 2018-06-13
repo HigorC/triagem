@@ -1,5 +1,6 @@
 {
     "vermelho": [
+<<<<<<< HEAD
       "Obstrução de Vias Aéreas",
       "Respiração Inadequada",
       "Estridor",
@@ -31,3 +32,36 @@
       "Evento Recente"
     ]
 }
+=======
+        "Obstrução de vias aéreas",
+        "Respiração inadequada",
+        "Estridor",
+        "Baba-se",
+        "Choque"
+    ],
+    "laranja": [
+        "Dor precordial ou cardíaca",
+        "Sat O2 muito baixa",
+        "Frases entrecortadas",
+        "Hemoptise",
+        "História respiratória significativa",
+        "Início agudo após trauma",
+        "Pulso anormal",
+        "Alteração súbita da consciência",
+        "Dor epigástrica",
+        "PFE muito baixo"
+    ],
+    "amarelo": [
+        "Sat O2 baixa",
+        "História de hemoptise",
+        "Dor pleurítica",
+        "PFE baixo"
+    ],
+    "verde": [
+        "Chieira",
+        "Tosse produtiva",
+        "Trauma torácido",
+        "Evento recente"
+    ]
+}
+>>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47

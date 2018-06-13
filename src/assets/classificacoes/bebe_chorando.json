@@ -1,5 +1,6 @@
 {
     "vermelho": [
+<<<<<<< HEAD
       "Obstrução de Vias Aéreas",
       "Respiração Inadequada",
       "Choque",
@@ -28,3 +29,33 @@
       "Evento Recente"
     ]
 }
+=======
+        "Obstrução de vias aéreas",
+        "Respiração inadequada",
+        "Choque",
+        "Criança não reativa"
+    ],
+    "laranja": [
+        "Sinais de dor intensa",
+        "Resposta à voz ou à dor apenas",
+        "Prostanção, hipotonia",
+        "Púrpura",
+        "Erupção cutânea fixa",
+        "Criança quente"
+    ],
+    "amarelo": [
+        "Sinais de dor moderada",
+        "História de incosciência",
+        "História discordantes",
+        "Inconsolável pelos pais",
+        "Choro prolongado ou ininterrupto",
+        "Incapaz de se alimentar"
+    ],
+    "verde": [
+        "Sinais de dor leve recente",
+        "Febril",
+        "Comportamento atípico",
+        "Evento recente"
+    ]
+}
+>>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47

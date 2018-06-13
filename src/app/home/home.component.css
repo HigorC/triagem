@@ -2,7 +2,11 @@ button {
     height: 300px;
     width: 300px;
     border-radius: 50%;
+<<<<<<< HEAD
     font-size: 22px!important;
+=======
+    font-size: 22px;
+>>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
     margin: 0 auto;
     outline: 0!important;
 }

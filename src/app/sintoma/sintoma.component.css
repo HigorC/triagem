@@ -45,6 +45,7 @@ ol, li, ul {
     color: white;
 }
 
+<<<<<<< HEAD
 .resultado {
     margin: 0 auto;
 }
@@ -59,5 +60,8 @@ ol, li, ul {
 
 .conteudo-sintomas {
     width: 80%;
+=======
+.resultado{
+>>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
     margin: 0 auto;
 }

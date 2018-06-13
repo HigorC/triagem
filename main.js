@@ -2,6 +2,7 @@ const { app, BrowserWindow } = require('electron')
 const path = require('path')
 const url = require('url')
 
+<<<<<<< HEAD
 
 // this should be placed at top of main.js to handle setup events quickly
 if (handleSquirrelEvent(app)) {
@@ -9,6 +10,8 @@ if (handleSquirrelEvent(app)) {
   return;
 }
 
+=======
+>>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
 // Mantenha uma referencia global do objeto da janela, se você não fizer isso, a janela será
 // fechada automaticamente quando o objeto JavaScript for coletado.
 let win
@@ -62,6 +65,7 @@ app.on('activate', () => {
 })
 
   // Neste arquivo, você pode incluir o resto do seu aplicativo especifico do processo
+<<<<<<< HEAD
   // principal. Você também pode colocar eles em arquivos separados e requeridos-as aqui.
 
   function handleSquirrelEvent(application) {
@@ -127,3 +131,6 @@ app.on('activate', () => {
             return true;
     }
 };
+=======
+  // principal. Você também pode colocar eles em arquivos separados e requeridos-as aqui.
+>>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47

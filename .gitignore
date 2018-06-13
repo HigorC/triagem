@@ -6,11 +6,14 @@
 /tmp
 /out-tsc
 
+<<<<<<< HEAD
 # Executaveis
 /electron-tutorial-app-win32-ia32
 /Teste-win32-ia32
 /Triagem-win32-ia32
 
+=======
+>>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
 # dependencies
 /node_modules
 

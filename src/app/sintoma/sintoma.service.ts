@@ -22,7 +22,11 @@ export class SintomaService {
       url: 'assets/classificacoes/alergia.json'
     },
     "2": {
+<<<<<<< HEAD
       nome: 'Bebê Chorando',
+=======
+      nome: 'Bebê chorando',
+>>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
       url: 'assets/classificacoes/bebe_chorando.json'
     },
     "3": {
@@ -34,6 +38,7 @@ export class SintomaService {
       url: 'assets/classificacoes/convulsao.json'
     },
     "5": {
+<<<<<<< HEAD
       nome: 'Desmaio',
       url: 'assets/classificacoes/desmaio.json'
     },
@@ -102,6 +107,30 @@ export class SintomaService {
     "21": {
       nome: 'Outros',
       url:  'assets/classificacoes/outros.json'
+=======
+      nome: 'Diabetes',
+      url: 'assets/classificacoes/diabetes.json'
+    },
+    "6": {
+      nome: 'Diarréia e/ou vômito',
+      url: 'assets/classificacoes/diarreia_vomito.json'
+    },
+    "7": {
+      nome: 'Dispnéia em adulto',
+      url: 'assets/classificacoes/dispneia_adulto.json'
+    },
+    "8": {
+      nome: 'Dor abdominal em adulto',
+      url: 'assets/classificacoes/dor_abdominal_adulto.json'
+    },
+    "9": {
+      nome: 'Quedas',
+      url: 'assets/classificacoes/quedas.json'
+    },
+    "10": {
+      nome: 'Trauma cranioencefálico',
+      url: 'assets/classificacoes/trauma_cranioencefalico.json'
+>>>>>>> 339151bd36b5cc2fb987f3b53282755595f0cd47
     }
   }
 }
